@@ -19,7 +19,7 @@ If you're reporting a problem, please include:
 - the app version (shown in the app's Settings or About screen, or in the App Store)
 - a screenshot, if it helps
 
-**Please note:** I make this app as a hobby, in my spare time. I don't offer active support: I read every message, but I can't promise a reply, a fix or a timeline.
+**Please note:** I'm a novice developer and make this app as a hobby, in my spare time. I'm happy to help and I read every message, but replies and fixes may take a while, and some problems may be beyond what I can fix.
 
 ## Privacy
 
