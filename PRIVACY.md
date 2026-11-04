@@ -1,6 +1,6 @@
 # Velo Fitness privacy policy
 
-Effective date: October 2026
+Effective date: November 2026
 
 **The short version:** Velo Fitness stores all your data locally on your device. The developer runs no server and collects nothing. The app talks only to Strava and Garmin, plus one public file server needed for Garmin sign-in (described below), and only when you sign in or sync.
 
@@ -48,9 +48,10 @@ The Garmin integration uses an unofficial API and is provided as a beta feature.
 
 To delete all data collected by this app:
 
-- Delete the app from your device. This removes `rides.json` and `boxing_sessions.json`. iOS may keep the encrypted sign-in tokens in the Keychain, but the app deletes them the next time it is installed, before anything can use them.
-- Signing out of Strava or Garmin inside the app removes that service's tokens (and the Garmin email) but keeps your synced activities.
-- To revoke Strava access separately, visit strava.com/settings/apps.
+- In the app, tap the gear on either tab, then **Delete All My Data**. This removes every ride and boxing session from your device, deletes your sign-in tokens, email and cookies, and asks Strava to remove the app's access. Your activities on Strava and Garmin aren't affected.
+- Or delete the app from your device. This removes `rides.json` and `boxing_sessions.json`. iOS may keep the encrypted sign-in tokens in the Keychain, but the app deletes them the next time it is installed, before anything can use them.
+- Signing out of Strava inside the app also asks Strava to remove the app's access. Signing out of Garmin removes its tokens, email and sign-in cookies. Both keep your synced activities.
+- To check or revoke Strava access yourself, visit strava.com/settings/apps.
 
 ## Children's privacy
 
